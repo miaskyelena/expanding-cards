@@ -1,2 +1,2 @@
-# expanding_cards
-create aesthetic landing page using html, css, and javascript
+# Expanding Cards Landing Page 
+Created an aesthetic landing page using html, css, and javascript
